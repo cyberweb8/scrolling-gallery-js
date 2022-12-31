@@ -1,8 +1,5 @@
+import UNSPLASH_API_KEY from './apiKey';
 const imageContainer = document.getElementById('image-container');
-
-// import UNSPLASH_API_KEY from './apiKey';
-
-const UNSPLASH_API_KEY = 'CWyyTc4xfhpctOKww0ua9N0qqAkBXTA8FkTKDiMzK_M';
 
 const count = 3;
 
